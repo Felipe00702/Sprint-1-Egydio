@@ -106,7 +106,7 @@ Com o uso de Inteligência Artificial, o sistema automatiza a classificação do
 ## 🗒️ Documentação  
 
 - [📌 Diagramas UML](https://github.com/Felipe00702/Sprint-1-Egydio/blob/main/AtividadeEgydio-main/AtividadeEgydio-main/Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema_corrigido.asta)
-- [📌 Sprint Backlog](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)  
+- [📌 Sprint Backlog](https://github.com/Felipe00702/Sprint-1-Egydio/blob/main/AtividadeEgydio-main/AtividadeEgydio-main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)  
 - [📌 Casos de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)  
 - [📌 Documentação Completa](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/PIM/PIM%203%20SEMESTRE.doc)  
 
