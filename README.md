@@ -25,15 +25,15 @@ Essa idéia veio devido ao aumento de insatisfação com os softwares já existe
 
 ## 🗒️ Modelagem de Requisitos
 
-- [Diagramas](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema.asta)
-- [Sprints Backlog](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)
-- [Descrição Caso de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)
+- [Diagramas](https://github.com/Felipe00702/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema.asta)
+- [Sprints Backlog](https://github.com/Felipe00702/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)
+- [Descrição Caso de Uso](https://github.com/Felipe00702/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)
 
 
 
 ## 📃 Documentação do Projeto
 
-- [Documentação](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/PIM/PIM%203%20SEMESTRE.doc)
+- [Documentação](https://github.com/Felipe00702/Callme_App/blob/main/Callme/PIM/PIM%203%20SEMESTRE.doc)
 
 
 
@@ -45,7 +45,7 @@ Essa idéia veio devido ao aumento de insatisfação com os softwares já existe
 
 ```bash
     # Clone o projeto
-    $ git clone https://github.com/Devluisgsouza/Callme_App.git 
+    $ git clone https://github.com/Felipe00702/Callme_App.git 
 ```
 
 ```bash
@@ -66,3 +66,8 @@ Essa idéia veio devido ao aumento de insatisfação com os softwares já existe
 ```bash
     # Conectar o código ao emulador android
     $ npm run android
+```
+
+
+
+LUIS
