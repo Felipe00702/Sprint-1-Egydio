@@ -42,7 +42,7 @@ Para ver o backlog do produto, acesse: [Backlog do Produto](https://github.com/e
 
 ---
 ## 📈 Cronograma de Evolução
-Para ver o cronograma de evolução, acesse: [Cronograma de Evolução](https://github.com/endlymelo/Cronograma-de-Evolucao)
+Para ver o cronograma de evolução, acesse: [Cronograma de Evolução](https://github.com/Felipe00702/Sprint-1-Egydio/blob/main/Cronograma.png)
 
 ---
 ## 📅 Tabela das Sprints
