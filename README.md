@@ -46,7 +46,7 @@ Para ver o cronograma de evolução, acesse: [Cronograma de Evolução](https://
 
 ---
 ## 📅 Tabela das Sprints
-Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/endlymelo/tabela_das_sprint/blob/main/README.md)
+Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/Felipe00702/Sprint-1-Egydio/blob/main/Cronograma.png)
 
 ---
 
