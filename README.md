@@ -63,20 +63,20 @@ Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/F
 
 ## 📂 Estrutura do Repositório  
 
-- **/Callme/Modelagem_de_Requisitos** → Diagramas, backlog, casos de uso  
-- **/Callme/PIM** → Documentação acadêmica (PIM 3º semestre)  
-- **/Callme/code** → Código-fonte do app  
+- */Callme/Modelagem_de_Requisitos* → Diagramas, backlog, casos de uso  
+- */Callme/PIM* → Documentação acadêmica (PIM 3º semestre)  
+- */Callme/code* → Código-fonte do app  
 
 ---
 
 ## 🗒️ Documentação  
 
-- [📌 Diagramas UML](https://github.com/Nilo40/AtividadeEgydio/Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema_corrigido.asta)  
-- [📌 Sprint Backlog](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)  
-- [📌 Casos de Uso](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/Modelagem_de_Requisitos/Descrição_caso_de_uso.docx)  
-- [📌 Documentação Completa](https://github.com/Devluisgsouza/Callme_App/blob/main/Callme/PIM/PIM%203%20SEMESTRE.doc)  
+- [📌 Diagramas UML](https://github.com/Felipe00702/Sprint-1-Egydio/blob/main/AtividadeEgydio-main/AtividadeEgydio-main/Callme/Modelagem_de_Requisitos/Diagrama_de_caso_de_uso_sistema_corrigido.asta)
+- [📌 Sprint Backlog](https://github.com/Felipe00702/Sprint-1-Egydio/blob/main/AtividadeEgydio-main/AtividadeEgydio-main/Callme/Modelagem_de_Requisitos/Sprints_Backlog.docx)  
+- [📌 Casos de Uso](https://github.com/Felipe00702/Sprint-1-Egydio/blob/main/AtividadeEgydio-main/AtividadeEgydio-main/Callme/Modelagem_de_Requisitos/Descri%C3%A7%C3%A3o_caso_de_uso.docx)  
+- [📌 Documentação Completa](https://github.com/Felipe00702/Sprint-1-Egydio/blob/main/AtividadeEgydio-main/AtividadeEgydio-main/Callme/PIM/PIM%203%20SEMESTRE.doc)  
 
-<img src="Callme/Diagrama.jpg" alt="Diagrama"/>
+
 
 ---
 
@@ -89,7 +89,7 @@ Para ver o tabela das sprints, acesse: [Tabela das Sprints](https://github.com/F
 
 ### Passo a passo  
 
-```bash
+bash
 # Clone o projeto
 $ git clone https://github.com/Devluisgsouza/Callme_App.git 
 
@@ -105,7 +105,7 @@ $ npm install -g expo-cli
 # Inicie o projeto
 $ npx expo start
 
-```bash
+bash
     # Conectar o código ao emulador android
     $ npm run android
 ```
